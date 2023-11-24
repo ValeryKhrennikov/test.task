@@ -1,0 +1,11 @@
+ru/unibell/test/task/entities/Contact.class
+ru/unibell/test/task/entities/Client.class
+ru/unibell/test/task/exceptions/InvalidInputException.class
+ru/unibell/test/task/repo/ClientRepository.class
+ru/unibell/test/task/exceptions/BaseException.class
+ru/unibell/test/task/controllers/Validation.class
+ru/unibell/test/task/exceptions/UserNotFoundException.class
+ru/unibell/test/task/repo/ContactRepository.class
+ru/unibell/test/task/controllers/ClientController.class
+ru/unibell/test/task/services/ClientService.class
+ru/unibell/test/task/Application.class

@@ -1,0 +1,11 @@
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/controllers/ClientController.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/services/ClientService.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/entities/Contact.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/exceptions/BaseException.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/exceptions/UserNotFoundException.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/entities/Client.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/exceptions/InvalidInputException.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/controllers/Validation.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/Application.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/repo/ContactRepository.java
+/home/valery/IdeaProjects/test.task/src/main/java/ru/unibell/test/task/repo/ClientRepository.java
